@@ -2,7 +2,7 @@
 
 hub="hisplan"
 image_name="cromwell-star"
-version="2.5.3a"
+version="2.7.6a"
 
 echo "Building ${image_name}:${version}..."
 
