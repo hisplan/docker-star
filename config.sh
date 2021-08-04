@@ -1,4 +1,4 @@
-version="2.7.6a"
+version="2.5.3a"
 
 # docker related
 registry="quay.io/hisplan"
